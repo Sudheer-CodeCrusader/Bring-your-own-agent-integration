@@ -1,0 +1,620 @@
+Request:
+{
+  "url": "https://www.iconfinder.com/"
+}
+Res: 
+{
+    "jobId": "c9c34d7e-fff0-4a0b-8585-653c7bdb8882",
+    "status": "processing",
+    "statusUrl": "/status/c9c34d7e-fff0-4a0b-8585-653c7bdb8882"
+}
+
+{
+    "status": "completed",
+    "result": {
+        "url": "https://www.iconfinder.com/",
+        "links": {
+            "count": 93,
+            "items": [
+                {
+                    "href": "https://www.iconfinder.com/",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.iconfinder.com/",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/",
+                    "text": "Icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations",
+                    "text": "Illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations",
+                    "text": "3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/stickers",
+                    "text": "Stickers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icon-sets/featured",
+                    "text": "Staff picks"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icon-sets/newest",
+                    "text": "Newest icon sets"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icon-sets/popular",
+                    "text": "Popular icon sets"
+                },
+                {
+                    "href": "https://www.iconfinder.com/categories",
+                    "text": "Categories"
+                },
+                {
+                    "href": "https://www.iconfinder.com/styles",
+                    "text": "Styles"
+                },
+                {
+                    "href": "https://www.iconfinder.com/custom-icon-design",
+                    "text": "Custom icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers",
+                    "text": "Top selling"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=followers",
+                    "text": "Most followers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=newest",
+                    "text": "Newest designers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=icons",
+                    "text": "Most icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=following",
+                    "text": "Following"
+                },
+                {
+                    "href": "https://www.iconfinder.com/api-solution",
+                    "text": "Iconfinder API"
+                },
+                {
+                    "href": "https://www.iconfinder.com/",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.iconfinder.com/icons",
+                    "text": "Icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/illustrations",
+                    "text": "Illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/3d-illustrations",
+                    "text": "3D"
+                },
+                {
+                    "href": "https://www.iconfinder.com/stickers",
+                    "text": "Stickers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/#",
+                    "text": "Designers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers",
+                    "text": "Top selling"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=followers",
+                    "text": "Most followers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=newest",
+                    "text": "Newest designers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=icons",
+                    "text": "Most icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers?sort=following",
+                    "text": "Following"
+                },
+                {
+                    "href": "https://www.iconfinder.com/#",
+                    "text": "Pricing"
+                },
+                {
+                    "href": "https://www.iconfinder.com/pricing",
+                    "text": "Pricing\n                                            Compare all pricing solutions.Options for individuals and teams.\n                                            See all"
+                },
+                {
+                    "href": "https://www.iconfinder.com/pro/",
+                    "text": "Pro subscription 7-day free trial\n                                            Choose a flexible subscription plan for you and your team members.\n                                            See the benefits"
+                },
+                {
+                    "href": "https://www.iconfinder.com/pay-as-you-go",
+                    "text": "Pay as you go\n                                            Pay for the graphics you need, when you need them. No strings attached.\n                                            How it works"
+                },
+                {
+                    "href": "https://www.iconfinder.com/api",
+                    "text": "API"
+                },
+                {
+                    "href": "https://www.iconfinder.com/enterprise",
+                    "text": "For enterprise New"
+                },
+                {
+                    "href": "https://www.iconfinder.com/p/iconfinder-for-education",
+                    "text": "For education"
+                },
+                {
+                    "href": "https://www.iconfinder.com/#",
+                    "text": "Cart"
+                },
+                {
+                    "href": "https://www.iconfinder.com/user/login",
+                    "text": "Sign in"
+                },
+                {
+                    "href": "https://www.iconfinder.com/user/signup",
+                    "text": "Sign up"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/",
+                    "text": "Icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations",
+                    "text": "Illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations",
+                    "text": "3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/stickers",
+                    "text": "Stickers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?q=Artificial%20intelligence",
+                    "text": "Artificial intelligence 3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icons",
+                    "text": "Icons\n                        6 million icons at your fingertips"
+                },
+                {
+                    "href": "https://www.iconfinder.com/illustrations",
+                    "text": "Illustrations\n                        Give your designs a personal touch"
+                },
+                {
+                    "href": "https://www.iconfinder.com/3d-illustrations",
+                    "text": "3D illustrations\n                        Bring depth to your designs"
+                },
+                {
+                    "href": "https://www.iconfinder.com/stickers",
+                    "text": "Stickers\n                        Add some visual flair"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icons",
+                    "text": "Explore icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icons",
+                    "text": "Icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/icons?family=feather",
+                    "text": "Feather\n        286 icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/icons?family=leto",
+                    "text": "Leto\n        5,516 icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/icons?family=organic-1",
+                    "text": "The World in Pastel\n        426 icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/icons?family=fluent-regular-24px",
+                    "text": "Fluent Regular 24px\n        1,565 icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/illustrations",
+                    "text": "Explore illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/illustrations",
+                    "text": "Illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations?family=essential-10",
+                    "text": "Essential\n        1,458 illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations?family=genzy",
+                    "text": "Genzy\n        370 illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations?family=chibry",
+                    "text": "Chibry\n        120 illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/illustrations?family=pop",
+                    "text": "POP\n        300 illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/3d-illustrations",
+                    "text": "Explore 3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/3d-illustrations",
+                    "text": "3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?family=latopia",
+                    "text": "Latopia\n        270 3d-illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?family=metaverse",
+                    "text": "Metaverse\n        40 3d-illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?family=diversa",
+                    "text": "Diversa\n        80 3d-illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?family=blimpy",
+                    "text": "Cubicle\n        485 3d-illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/search/3d-illustrations?q=Artificial%20intelligence",
+                    "text": "Artificial intelligence 3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/icons",
+                    "text": "Icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/illustrations",
+                    "text": "Illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/3d-illustrations",
+                    "text": "3D illustrations"
+                },
+                {
+                    "href": "https://www.iconfinder.com/designers",
+                    "text": "Designers"
+                },
+                {
+                    "href": "https://www.iconfinder.com/free_icons",
+                    "text": "Free icons"
+                },
+                {
+                    "href": "https://www.iconfinder.com/pricing",
+                    "text": "Pricing overview"
+                },
+                {
+                    "href": "https://www.iconfinder.com/pay-as-you-go",
+                    "text": "Pay as you go"
+                },
+                {
+                    "href": "https://www.iconfinder.com/api-solution",
+                    "text": "API"
+                },
+                {
+                    "href": "https://www.iconfinder.com/p/iconfinder-for-education",
+                    "text": "For education"
+                },
+                {
+                    "href": "mailto:contact@iconfinder.com",
+                    "text": "Contact sales"
+                },
+                {
+                    "href": "mailto:support@iconfinder.com",
+                    "text": "Contact support"
+                },
+                {
+                    "href": "http://support.iconfinder.com/",
+                    "text": "Knowledge base"
+                },
+                {
+                    "href": "https://iconfinder.statuspage.io/",
+                    "text": "Service status"
+                },
+                {
+                    "href": "https://headwayapp.co/iconfinder-changelog",
+                    "text": "What's new"
+                },
+                {
+                    "href": "https://iconfinder-quote-request.paperform.co/",
+                    "text": "Request a quote"
+                },
+                {
+                    "href": "https://www.iconfinder.com/about",
+                    "text": "About Iconfinder"
+                },
+                {
+                    "href": "https://www.iconfinder.com/p/partner-network",
+                    "text": "Partner network"
+                },
+                {
+                    "href": "http://support.iconfinder.com/user-account-management/how-does-the-referral-program-work",
+                    "text": "Referral program"
+                },
+                {
+                    "href": "https://www.iconfinder.com/p/iconfinder-coupon",
+                    "text": "Coupon code"
+                },
+                {
+                    "href": "https://www.iconfinder.com/iconsets/submit",
+                    "text": "Become a contributor"
+                },
+                {
+                    "href": "https://www.g2.com/products/iconfinder/reviews",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.trustpilot.com/review/www.iconfinder.com",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.iconfinder.com/",
+                    "text": ""
+                },
+                {
+                    "href": "https://www.iconfinder.com/about/termsofservice",
+                    "text": "Terms of service"
+                },
+                {
+                    "href": "https://www.iconfinder.com/about/privacypolicy",
+                    "text": "Privacy policy"
+                },
+                {
+                    "href": "https://www.iconfinder.com/about/refundpolicy",
+                    "text": "Return and Refund policy"
+                }
+            ]
+        },
+        "icons": {
+            "count": 39,
+            "items": [
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/logo/black_small.svg?eb4fe0853e",
+                    "alt": "Iconfinder"
+                },
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/logo/black.svg?7cfe2038c8",
+                    "alt": "Iconfinder"
+                },
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/logo/black.svg?7cfe2038c8",
+                    "alt": "Iconfinder"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/feather.png?indexed=1743521219",
+                    "alt": "Feather - 286 icons"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/leto.png?indexed=1743521158",
+                    "alt": "Leto - 5,516 icons"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/organic-1.png?indexed=1743521186",
+                    "alt": "The World in Pastel - 426 icons"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/fluent-regular-24px.png?indexed=1743521219",
+                    "alt": "Fluent Regular 24px - 1,565 icons"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/essential-10.png?indexed=1733241502",
+                    "alt": "Essential - 1,458 illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/genzy.png?indexed=1735819467",
+                    "alt": "Genzy - 370 illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/chibry.png?indexed=1733241502",
+                    "alt": "Chibry - 120 illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/pop.png?indexed=1733241502",
+                    "alt": "POP - 300 illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/latopia.png?indexed=1736170260",
+                    "alt": "Latopia - 270 3d-illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/metaverse.png?indexed=1657872732",
+                    "alt": "Metaverse - 40 3d-illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/diversa.png?indexed=1702893695",
+                    "alt": "Diversa - 80 3d-illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://cdn.iconfinder.com/data/family/previews/preview/blimpy.png?indexed=1675919979",
+                    "alt": "Cubicle - 485 3d-illustrations"
+                },
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/reviews/G2.svg?0fca0b620b",
+                    "alt": "G2: 4.3 score, 9 reviews"
+                },
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/reviews/Trustpilot.svg?34616b67be",
+                    "alt": "Trustpilot: 4.3 score, 47 reviews"
+                },
+                {
+                    "type": "image",
+                    "src": "https://www.iconfinder.com/static/img/logo/black.svg?7cfe2038c8",
+                    "alt": "Iconfinder"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#chevron-down\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-middle text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#magnify\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"16\" height=\"16\" class=\"ui-icon align-text-bottom text-muted\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#chevron-down\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"16\" height=\"16\" class=\"ui-icon align-text-bottom text-muted\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#chevron-down\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-text-bottom text-success\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_lighthouse\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-white\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-text-bottom text-purple\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_bolt\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-white\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-text-bottom text-red\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_wallet\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-white\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-middle text-secondary\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_code\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-middle text-secondary\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_enterprise\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-middle text-secondary\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#f_hat\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"16\" height=\"16\" class=\"ui-icon align-text-bottom text-muted\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#cart\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"24\" height=\"24\" class=\"ui-icon align-text-bottom text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#chevron-down\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"30\" height=\"30\" class=\"ui-icon align-middle text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#magnify\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"16\" height=\"16\" class=\"ui-icon align-middle text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#magnify\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"18\" height=\"18\" class=\"ui-icon align-text-bottom text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#arrow-right\"></use>\n    </svg>"
+                },
+                {
+                    "type": "svg",
+                    "content": "<svg width=\"16\" height=\"16\" class=\"ui-icon align-middle text-dark\">\n        <use xlink:href=\"/static/icons.svg?450f041b8d#magnify\"></use>\n    </svg>"
+                }
+            ]
+        },
+        "locators": {
+            "buttons": [
+                {
+                    "text": "Icons",
+                    "css": ".btn.btn-dropdown.px-0",
+                    "xpath": "//button"
+                },
+                {
+                    "text": "",
+                    "css": ".btn.btn-submit",
+                    "xpath": "//button"
+                },
+                {
+                    "text": "",
+                    "css": ".navbar-toggler.border-0.px-0.collapsed",
+                    "xpath": "//button"
+                },
+                {
+                    "text": "Icons",
+                    "css": ".btn.btn-dropdown.px-0",
+                    "xpath": "//button"
+                },
+                {
+                    "text": "",
+                    "css": ".btn.btn-submit",
+                    "xpath": "//button"
+                }
+            ],
+            "inputs": [
+                {
+                    "type": "text",
+                    "css": "#search-input",
+                    "xpath": "//*[@id=\"search-input\"]"
+                },
+                {
+                    "type": "text",
+                    "css": "#search-input",
+                    "xpath": "//*[@id=\"search-input\"]"
+                }
+            ],
+            "navigation": [
+                {
+                    "css": ".navbar.navbar-expand-lg.navbar-light.bg-white.",
+                    "xpath": "//nav"
+                }
+            ]
+        }
+    }
+}

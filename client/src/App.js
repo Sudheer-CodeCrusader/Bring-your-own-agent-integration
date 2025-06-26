@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const [url, setUrl] = useState('');
-  const [jobId, setJobId] = useState(null);
+  const [jobId, setJobId] = useState(null); // eslint-disable-next-line no-unused-vars
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
@@ -171,4 +171,4 @@ function App() {
   );
 }
 
-export default App; 
+export default App;

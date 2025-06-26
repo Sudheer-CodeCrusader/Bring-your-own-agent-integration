@@ -61,8 +61,8 @@ const getXPath = (element) => {
   return element.tagName.toLowerCase();
 };
 
-// Kickoff URL endpoint
-app.post('/kickoff', authenticateToken, async (req, res) => {
+// Kickoff URL endpoint (no authentication)
+app.post('/kickoff', async (req, res) => {
   const { url } = req.body;
 
   if (!url) {
@@ -82,8 +82,8 @@ app.post('/kickoff', authenticateToken, async (req, res) => {
   });
 });
 
-// Status URL endpoint
-app.get('/status/:jobId', authenticateToken, (req, res) => {
+// Status URL endpoint (no authentication)
+app.get('/status/:jobId', (req, res) => {
   const { jobId } = req.params;
   const job = jobs.get(jobId);
 
@@ -92,6 +92,34 @@ app.get('/status/:jobId', authenticateToken, (req, res) => {
   }
 
   res.json(job);
+});
+
+// QA Pilot execution endpoint (no authentication)
+app.post('/qapilot/execute', async (req, res) => {
+  const {
+    sessionid,
+    stepimagebase64,
+    pagesource,
+    recordedimage,
+    elementimage,
+    waittimems
+  } = req.body;
+
+  // Validate required fields
+  if (!sessionid || !stepimagebase64 || !pagesource || !recordedimage || !elementimage || typeof waittimems !== 'number') {
+    return res.status(400).json({ error: 'Missing required fields' });
+  }
+
+  // Simulate wait time
+  await new Promise(resolve => setTimeout(resolve, waittimems));
+
+  // Here you can add logic to process/store/analyze the data as needed
+
+  res.json({
+    status: 'success',
+    message: 'QA Pilot execution processed',
+    sessionid
+  });
 });
 
 // Web page analysis function
